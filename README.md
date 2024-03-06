@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/engraxis?tab=repositories](https://github.com/engraxis?tab=repositories)
 
-- 📫 How to reach me **https://abdullah-tahir.github.io**
+- 📫 How to reach me **engrabxis@gmail.com**
 
-- 📄 Know about my experiences [https://abdullah-tahir.github.io](https://abdullah-tahir.github.io)
+- 📄 Know about my experiences [https://abdullah-tahir.github.io](https://engraxis.github.io)
 
 - ⚡ Fun fact **I don't get drunk.**
 
