@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Abdullah Tahir</h1>
-<h3 align="left">A passionate mechatronics engineer and researcher.</h3>
+<h1 align="center">Hi 👋, I'm Abdullah Tahir</h1>
+<h3 align="cemter">A passionate mechatronics engineer and researcher.</h3>
 
 - 🌱 I’m currently learning **deep learning aided sensing for human robot interaction.**
 
