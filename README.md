@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **AI and HRI.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/engraxis?tab=repositories](https://github.com/engraxis?tab=repositories)
-
 - 💬 Ask me about **AI and mechatronics systems.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/engraxis?tab=repositories](https://github.com/engraxis?tab=repositories)
 
 - 📫 How to reach me **https://abdullah-tahir.github.io**
 
