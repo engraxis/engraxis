@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **AI and mechatronics systems.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/engraxis?tab=repositories](https://github.com/engraxis?tab=repositories)
-
 - 📫 How to reach me **engrabxis@gmail.com**
 
 - 📄 Know about my experiences [https://abdullah-tahir.github.io](https://engraxis.github.io)
