@@ -9,9 +9,12 @@
 
 - 📫 How to reach me **engrabxis@gmail.com**
 
-- 📄 Know about my experiences [https://abdullah-tahir.github.io](https://engraxis.github.io)
+- 📄 Know about my experiences [github webpage](https://engraxis.github.io)
 
 - ⚡ Fun fact **I don't get drunk.**
+
+<h1>Projects</h1>
+<p>My research and hobby projects are listed under:</p>
 
 <h2>AI</h2>
 <h2>Embedded Systems</h2>
