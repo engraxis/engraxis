@@ -19,6 +19,7 @@
 <h2>Embedded Systems</h2>
 <h2>Robotics</h2>
 <h2>Control</h2>
+<h2>Mobile Applications</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
