@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 Welcome!</h1>
 <h3 align="center">I am Abdullah Tahir, a passionate mechatronics engineer and researcher.</h3>
 
-- 🌱 I’m currently learning **deep learning aided sensing for human robot interaction**.
+- 🌱 I’m currently working on **deep learning aided sensing for human robot interaction**.
 
 - 👯 I’m looking to collaborate on **AI and HRI**.
 
