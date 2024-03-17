@@ -9,7 +9,7 @@
 
 - 📫 Have something to share/discuss? engrabxis@gmail.com.
 
-- 🖋 See my research profile on [google scholar](https://scholar.google.com/citations?hl=en&user=y4iZqrgAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}.  
+- 🖋 See my research profile on [google scholar](https://scholar.google.com/citations?hl=en&user=y4iZqrgAAAAJ&view_op=list_works&sortby=pubdate).  
 
 - 📄 You may reach out via my [personal webpage](https://engraxis.github.io).
 
