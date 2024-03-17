@@ -5,9 +5,11 @@
 
 - 👯 I’m looking to collaborate on **AI and HRI**.
 
-- 💬 Ask me about **AI and mechatronics systems**.
+- 💬 Ask me about **AI and Mechatronics**.
 
 - 📫 Have something to share/discuss? **engrabxis@gmail.com**.
+
+- 🖋 See my research profile on [google scholar]([https://engraxis.github.io](https://scholar.google.com/citations?hl=en&user=y4iZqrgAAAAJ&view_op=list_works&sortby=pubdate).  
 
 - 📄 You may reach out via my [personal webpage](https://engraxis.github.io).
 
@@ -17,17 +19,35 @@
 <p>My research and hobby projects are listed under:</p>
 
 <h2>AI</h2>
+<ul>This reposity will be updated after publication of my Ph.D. works.</ul>
+
 <h2>Embedded Systems</h2>
 <ul>
   <li><a href="https://github.com/engraxis/embedded-systems">Numerous ATMEL8051, PIC18, TI TM4C123 projects can be seen in this repository.</li>
 </ul>
+    
 <h2>Robotics</h2>
 <ul>
   <li><a href="https://github.com/engraxis/robotics">Various robotics projects can be seen here.</li>
-  <li><a href="https://github.com/engraxis/7dof-manipulator">Matlab code for 7DOF anthopomorphic S-R-S manipulator's forward & inverse kinematics, and singularity avoidance simulation.</li>
+  <li><a href="https://github.com/engraxis/7dof-manipulator">Matlab simulation for 7DOF anthopomorphic S-R-S manipulator's forward & inverse kinematics, and singularity avoidance.</li>
 </ul>
-    
-<h2>Control</h2>
+
+<h2>Masters Thesis Work</h2>
+<ul>
+  <li><a href="https://github.com/engraxis/masters-thesis">Design and evaluation of haptic virtual fixtures for robot assisted coronary intervention.</li>
+    <ul>
+      <li>A master-slave telerobotic system.</li>
+      <li>Friction compensation in master robot.</li>
+      <li>Multithreading: Haptic thread, image processing thread, communication thread.</li>
+      <li>Qt based user interface.</li>
+    </ul>
+</ul>
+
+<h2>Control Systems</h2>
+<ul>
+  <li><a href="https://github.com/engraxis/control-systems">Repository contains different projects on DC motor (position, speed, and torque) and temperature control projects.</li>
+</ul>
+
 <h2>Mobile Applications</h2>
 <ul>
   <li><a href="https://github.com/engraxis/startup_basic/tree/master">Getting started with flutter environment.</li>
@@ -52,4 +72,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+</p>
