@@ -9,7 +9,7 @@
 
 - 📫 Have something to share/discuss? **engrabxis@gmail.com**.
 
-- 🖋 See my research profile on [google scholar]([https://engraxis.github.io](https://scholar.google.com/citations?hl=en&user=y4iZqrgAAAAJ&view_op=list_works&sortby=pubdate).  
+- 🖋 See my research profile on [google scholar](https://scholar.google.com/citations?hl=en&user=y4iZqrgAAAAJ&view_op=list_works&sortby=pubdate).  
 
 - 📄 You may reach out via my [personal webpage](https://engraxis.github.io).
 
@@ -19,7 +19,7 @@
 <p>My research and hobby projects are listed under:</p>
 
 <h2>AI</h2>
-<ul>This reposity will be updated after publication of my Ph.D. works.</ul>
+<ul><li>This reposity will be updated after publication of my Ph.D. works.</li></ul>
 
 <h2>Embedded Systems</h2>
 <ul>
@@ -32,7 +32,7 @@
   <li><a href="https://github.com/engraxis/7dof-manipulator">Matlab simulation for 7DOF anthopomorphic S-R-S manipulator's forward & inverse kinematics, and singularity avoidance.</li>
 </ul>
 
-<h2>Masters Thesis Work</h2>
+<h2>Masters Thesis</h2>
 <ul>
   <li><a href="https://github.com/engraxis/masters-thesis">Design and evaluation of haptic virtual fixtures for robot assisted coronary intervention.</li>
     <ul>
