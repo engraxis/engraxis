@@ -22,7 +22,7 @@
 <h2>Control</h2>
 <h2>Mobile Applications</h2>
 <ul>
-<li><a href="https://github.com/engraxis/startup_basic/tree/master"></li>
+<li>[Getting started with flutter environment](https://github.com/engraxis/startup_basic/tree/master")</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
