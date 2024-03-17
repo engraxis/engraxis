@@ -18,11 +18,17 @@
 
 <h2>AI</h2>
 <h2>Embedded Systems</h2>
+<ul>
+  <li><a href="https://github.com/engraxis/embedded-systems">Numerous ATMEL8051, PIC18, TI TM4C123 projects can be seen in this repository.</li>
+</ul>
 <h2>Robotics</h2>
+    
 <h2>Control</h2>
 <h2>Mobile Applications</h2>
 <ul>
-<li><a href="https://github.com/engraxis/startup_basic/tree/master">Getting started with flutter environment</li>
+  <li><a href="https://github.com/engraxis/startup_basic/tree/master">Getting started with flutter environment.</li>
+  <li><a href="https://github.com/engraxis/flash-me/tree/master">Flash Me: Share social profiles with QR code scan.</li>
+  <li><a href="https://github.com/engraxis/fix-my-skills">Fix My Skills: Let others improve your atheletic skills.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
