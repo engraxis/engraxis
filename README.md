@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **AI and Mechatronics**.
 
-- 📫 Have something to share/discuss? **engrabxis@gmail.com**.
+- 📫 Have something to share/discuss? engrabxis@gmail.com.
 
 - 🖋 See my research profile on [google scholar](https://scholar.google.com/citations?hl=en&user=y4iZqrgAAAAJ&view_op=list_works&sortby=pubdate).  
 
