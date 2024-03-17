@@ -23,18 +23,18 @@
 
 <h2>Embedded Systems</h2>
 <ul>
-  <li><a href="https://github.com/engraxis/embedded-systems">Numerous ATMEL8051, PIC18, TI TM4C123 projects can be seen in this repository.</li>
+  <li><a href="https://github.com/engraxis/embedded-systems" target="_blank">Numerous ATMEL8051, PIC18, TI TM4C123 projects can be seen in this repository.</li>
 </ul>
     
 <h2>Robotics</h2>
 <ul>
-  <li><a href="https://github.com/engraxis/robotics">Various robotics projects can be seen here.</li>
-  <li><a href="https://github.com/engraxis/7dof-manipulator">Matlab simulation for 7DOF anthopomorphic S-R-S manipulator's forward & inverse kinematics, and singularity avoidance.</li>
+  <li><a href="https://github.com/engraxis/robotics" target="_blank">Various robotics projects can be seen here.</li>
+  <li><a href="https://github.com/engraxis/7dof-manipulator" target="_blank">Matlab simulation for 7DOF anthopomorphic S-R-S manipulator's forward & inverse kinematics, and singularity avoidance.</li>
 </ul>
 
 <h2>Masters Thesis</h2>
 <ul>
-  <li><a href="https://github.com/engraxis/masters-thesis">Design and evaluation of haptic virtual fixtures for robot assisted coronary intervention.</li>
+  <li><a href="https://github.com/engraxis/masters-thesis" target="_blank">Design and evaluation of haptic virtual fixtures for robot assisted coronary intervention.</li>
     <ul>
       <li>A master-slave telerobotic system.</li>
       <li>Friction compensation in master robot.</li>
@@ -45,14 +45,14 @@
 
 <h2>Control Systems</h2>
 <ul>
-  <li><a href="https://github.com/engraxis/control-systems">Repository contains different projects on DC motor (position, speed, and torque) and temperature control projects.</li>
+  <li><a href="https://github.com/engraxis/control-systems" target="_blank">Repository contains different projects on DC motor (position, speed, and torque) and temperature control projects.</li>
 </ul>
 
 <h2>Mobile Applications</h2>
 <ul>
-  <li><a href="https://github.com/engraxis/startup_basic/tree/master">Getting started with flutter environment.</li>
-  <li><a href="https://github.com/engraxis/flash-me/tree/master">Flash Me: Share social profiles with QR code scan.</li>
-  <li><a href="https://github.com/engraxis/fix-my-skills">Fix My Skills: Let others improve your atheletic skills.</li>
+  <li><a href="https://github.com/engraxis/startup_basic/tree/master" target="_blank">Getting started with flutter environment.</li>
+  <li><a href="https://github.com/engraxis/flash-me/tree/master" target="_blank">Flash Me: Share social profiles with QR code scan.</li>
+  <li><a href="https://github.com/engraxis/fix-my-skills" target="_blank">Fix My Skills: Let others improve your atheletic skills.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
