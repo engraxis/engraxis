@@ -24,7 +24,7 @@
 <h2>Robotics</h2>
 <ul>
   <li><a href="https://github.com/engraxis/robotics">Various robotics projects can be seen here.</li>
-  <li><a href="[https://github.com/engraxis/robotics](https://github.com/engraxis/7dof-manipulator)">Matlab code for 7DOF anthopomorphic S-R-S manipulator's forward & inverse kinematics, and singularity avoidance simulation.</li>
+  <li><a href="https://github.com/engraxis/7dof-manipulator">Matlab code for 7DOF anthopomorphic S-R-S manipulator's forward & inverse kinematics, and singularity avoidance simulation.</li>
 </ul>
     
 <h2>Control</h2>
