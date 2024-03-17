@@ -23,7 +23,7 @@
 
 <h2>Embedded Systems</h2>
 <ul>
-  <li><a href="https://github.com/engraxis/embedded-systems" target="_blank">Numerous ATMEL8051, PIC18, TI TM4C123 projects can be seen in this repository.</a></li>
+  <li><a href="https://github.com/engraxis/embedded-systems" onclick="window.open(this.href); return false;">Numerous projects can be seen in this repository.</a></li>
 </ul>
     
 <h2>Robotics</h2>
