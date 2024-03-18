@@ -30,6 +30,7 @@
 <ul>
   <li><a href="https://github.com/engraxis/robotics" target="_blank">Various robotics projects can be seen here.</a></li>
   <li><a href="https://github.com/engraxis/7dof-manipulator" target="_blank">Matlab simulation for 7DOF anthopomorphic S-R-S manipulator's forward & inverse kinematics, and singularity avoidance.</a></li>
+  <li><a href="https://github.com/engraxis/webots" target="_blank">Webots project with a mobile robot and 3DOF manipulator.</a></li>
 </ul>
 
 <h2>Masters Thesis</h2>
