@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 Welcome!</h1>
-<h3 align="center">I am <span style="color: blue;">Abdullah Tahir</span>, a passionate mechatronics engineer and researcher.</h3>
+<h3 align="center">I am **Abdullah Tahir**, a passionate mechatronics engineer and researcher.</h3>
 
 - 🌱 I’m currently working on **deep learning aided sensing for human robot interaction**.
 
